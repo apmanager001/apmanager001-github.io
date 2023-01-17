@@ -1,0 +1,84 @@
+.header {
+  font-family: helvetica;
+  font-weight: 800;
+  font-size: 30px;
+  text-align: center;
+}
+.container {
+  font-size: 30px;
+  font-weight: 700;
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto;
+  width: 75%;
+  
+}
+.bluebox {
+  background-color: #0000FF;
+  border: 1.5px solid;
+  font-size: 25px;
+}
+.pinkbox {
+  background-color: #d24787;
+  border: 1.5px solid;
+  font-size: 25px;
+}
+.brownbox {
+  background-color: #6E260E;
+  border: 1.5px solid;
+  font-size: 25px;
+}
+.greenbox {
+  background-color: #AFE1AF;
+  border: 1.5px solid;
+  font-size: 25px;
+}
+.color-panel {
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+  
+}
+.font{
+  font-size: 20px;
+  font-family: Courier New;
+  text-align: center;
+}
+.underline {
+  text-decoration: underline;
+}
+.bold {
+  font-weight: 700;
+}
+.italics {
+  font-style: italic;
+}
+.helvetica {
+  font-family: helvetica;
+}
+.fantasy {
+  font-family: fantasy;
+}
+.papyrus {
+  font-family: papyrus;
+}
+.styles{
+  font-size: 20px;
+  font-family: Courier New;
+  text-align: left;
+}
+.h1 {
+  font-weight: 800;
+  font-size: 25px;
+  font-family: Arial;
+}
+.h2 {
+  font-weight: 600;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+.h3 {
+  font-weight: 400;
+  font-size: 15px;
+  font-family: Papyrus;
+}
