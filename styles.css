@@ -4,6 +4,22 @@
   font-size: 30px;
   text-align: center;
 }
+.breadcrumb{
+  padding: 10px 16px;
+  list-style: none;
+  background-color: #eed;
+  }
+  
+.breadcrumb-item{
+  display: inline;
+  font-size: 18px;
+  }
+
+.breadcrumb li+li:before{
+  padding: 8px;
+  color: black;
+  content: ">>";
+}
 .container {
   font-size: 30px;
   font-weight: 700;
