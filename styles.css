@@ -11,8 +11,8 @@
   }
   
 .breadcrumb-item{
-  display: inline;
-  font-size: 18px;
+  display: inline-block;
+  font-size: 35px;
   }
 
 .breadcrumb li+li:before{
